@@ -1,2 +1,2 @@
 # FXCM_trading.py
-FXCM trading bot plus functions and code for testing technical indicators, quantitative analysis, value investing, webscraping and API connections
+Main function is fxcm_trading.py which is the FXCM trading bot. Plus additional functions and code for testing technical indicators, quantitative analysis, value investing, webscraping and API connections
